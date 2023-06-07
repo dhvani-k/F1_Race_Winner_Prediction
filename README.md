@@ -41,4 +41,8 @@ The Streamlit web application will open in a new browser window hosted at your l
 | Constructor's name | Select the constructor's name for whom the selected driver is driving |
 | Circuit's name | Select the name of the circuit where the race is going to happen |
 
+![My Image](img/img1.png)
+
 Click the predict button for the results.
+
+![My Image](img/img2.png)
